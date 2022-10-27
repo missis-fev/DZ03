@@ -4,7 +4,7 @@
 //5 -> 1, 8, 27, 64, 125
 
  
-Console.Write("Введите число:   "); 
+Console.Write("Введите число: "); 
 int N = int.Parse(Console.ReadLine()!); 
 int[] GetSqrtTable(int N) 
 {   
